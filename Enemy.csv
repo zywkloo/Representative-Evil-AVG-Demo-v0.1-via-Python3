@@ -1,0 +1,43 @@
+No,Name,ini_resist,Power_Strength,Power_Lore,Power_Charm,Power_Money,Lootchance,Loot,Lootmoney,Desc,Brief_Desc,action,action0,Pos,Dialogue,is_bride,Loot_NPC
+1,Max Moon,100,50,0,0,0,30,1,100,She is in good shape and has healthy skin colour.A big rockets logo in her T-shirt.,a female basketball player,AATAAT,A,3,"101,102",TRUE,0
+2,Marry Sue,200,0,50,0,0,30,1,100,"A big pair of glasses cover nearly a half of her face, her hair looks like a rainbow and decorated with some colourful little stars.",a COMP student of CU,AATAAT,A,2,"201,202",TRUE,0
+3,Jessica,300,0,0,50,0,30,1,100,"She has a cross tottoo in her forehead wears in a Gothic style. A ""Hell Kitchen"" T-shirt probably means she serves in catering services.",a Gothic girl,ATAAAT,A,4,"301,302",TRUE,0
+4,Daro.The Retailer,400,0,0,0,1000,30,1,100,She drives a ice cream van which brand you like best.She ties her hair a ponytail style and wear the ice-cream uniform.,an ice-cream seller,ATAAAT,A,5,"401,402",TRUE,0
+5,Princess Anduin Mrynn,500,70,80,0,0,30,1,100,"She wears a white sliver arour looks like a knight,but I can see some dark gas surrounding her.When you move near her, you feel very very cold.",an princess looking like a priest,ATAAAT,A,6,"501,502",TRUE,0
+6,Lady Mamba,600,0,90,80,0,30,1,100,"Her hair is ten living snakes.She wears a big sunglasses and hold a mirror ,repeating that who is the most beautiful women in the world.",a Medusa,ATAAAT,A,7,"601,602",TRUE,0
+7,Princess Beauty,700,120,0,100,0,30,1,100,She wears heavy makeup and is stronger and taller than everyone you have ever met.,a female Orc,ATAAAT,A,8,"701,702",TRUE,0
+8,Cleopatra VII,800,0,0,150,2000,30,1,100,She is so shining and the golden jewelrys are so shining too. You nearly can not open your eyes becuase of the lights.,an Egyptian queen,ATAAAT,A,9,"801,802",TRUE,0
+9,Lady Merlin,900,120,160,0,3000,30,1,100,"She wears a dark grey cloak and hides her face in the shadow,what you can see are just her green eyes.",a witty sorceress,ATAAAT,A,10,"901,902",TRUE,0
+10,Gabrielle ,1000,200,200,200,4000,30,1,100,"You hate feathers! She may be beautiful but the 12 wings in her back makes her like a fat bied what you can see are only ferthers!feathers! And feathers!""Astishoo!!!!""",a birdwoman,ATAAAT,A,11,"1001,1002",TRUE,0
+100,Belial.The ArchDemon,1100,300,300,300,9999,30,1,100,"The most obese and greasiest Evil you have never see. He is sitting there chewing something.You guess he can not see his own feet .The wings are so tiny compared to his shape, you wonder whether he can fly…",The ArchDemon,TTTTAAT,T,1,"1101,1102",FALSE,0
+101,Belial.The Coolest Demon,2000,300,300,300,9999,30,1,100,He is so handsome and looks like the Mr. right in fairy tales.You can only  recognize his demon identity by the devil horns. Maybe you could fall in love with him if you were a girl.                                 ,The 'Cute' ArchDemon,TATAAAT,A,0,"1201,1202",FALSE,0
+13,J.Harden,9999,99999,99999,99999,99999,30,1,10,"He is very strong, and in red sportswear, flourishing whiskers cover his chin.",a retired player,TTTTT,T,"4,3,5","1301,1302",FALSE,0
+14,Lady of Lake,9999,99999,99999,99999,99999,30,1,10,"She completely looks like Merlin,althoug you do not know what Merlin really looks like.The only different thing is the coulour of cloak,hers is white. ",the lady of the Lake,TTTTT,T,"20,19,18","1401,1402",FALSE,0
+15,Athena,9999,99999,99999,99999,99999,30,1,10,She is a plaster model and she keeps talking something.You feel like a noisy bumming bee flying around your ears.,a brave Godess,TTTTT,T,"11,12,14","1501,1502",FALSE,0
+16,Gullow,9999,99999,99999,99999,99999,30,1,10,"His eyes are very big  which nearly takers over his whole face.""My precious.My precious!""he repeats and looks for something.",a greedy thug,TTTTT,T,"9,8,16,17","1601,1602",FALSE,0
+17,Mr Oldman,9999,99999,99999,99999,99999,0,1,10,A weird old man with long long long goatee.You gusses he konw everything in the world.,an old man in white,TTTTT,T,"2,3","1701,1702",FALSE,0
+18,Lost soul,9999,99999,99999,99999,99999,30,1,10,A lost soul whose death is obviously related to demons years or centuries ago. Haunting around the mansion of devils.,a ghost,TTTTT,T,1,"1801,1802",FALSE,0
+51,Goblin,20,20,0,0,0,30,1,10,Green little troubles.Their voice makes you crazy and causes headache.,a goblin,ATAAAT,A,3,"1901,1902",FALSE,62
+52,Spider,50,0,50,0,0,30,1,10,Every spider is so small until you kill one of them.They gather together and become more and more bigger.,a strong spider,ATAAAT,A,8,"2001,2002",FALSE,61
+53,birdboy,150,70,80,0,0,30,1,10,"You hate feather!!!!!!The only thing in your mind is that.""ATISHOOOOO""",a birdboy,ATAAAT,A,13,"2101,2102",FALSE,64
+54,Orc,500,120,120,120,5000,30,1,10,They are twice taller than you and thier arms are thiple thicker than your head.WTF!,an orc,ATAAAT,A,18,"2201,2202",FALSE,63
+61,Goblin1,20,20,0,0,0,30,1,10,Green little troubles.Their voice makes you crazy and causes headache.,a goblin,ATAAAT,A,4,"1901,1902",FALSE,72
+62,Spider1,50,0,50,0,0,30,1,10,Every spider is so small until you kill one of them.They gather together and become more and more bigger.,a strong spider,ATAAAT,A,9,"2001,2002",FALSE,71
+63,birdboy1,150,70,80,0,0,30,1,10,"You hate feather!!!!!!The only thing in your mind is that.""ATISHOOOOO""",a birdboy,ATAAAT,A,14,"2101,2102",FALSE,74
+64,Orc1,500,120,120,120,5000,30,1,10,They are twice taller than you and thier arms are thiple thicker than your head.WTF!,an orc,ATAAAT,A,19,"2201,2202",FALSE,73
+71,Goblin2,20,20,0,0,0,30,1,10,Green little troubles.Their voice makes you crazy and causes headache.,a goblin,ATAAAT,A,6,"1901,1902",FALSE,82
+72,Spider2,50,0,50,0,0,30,1,10,Every spider is so small until you kill one of them.They gather together and become more and more bigger.,a strong spider,ATAAAT,A,11,"2001,2002",FALSE,81
+73,birdboy2,150,70,80,0,0,30,1,10,"You hate feather!!!!!!The only thing in your mind is that.""ATISHOOOOO""",a birdboy,ATAAAT,A,16,"2101,2102",FALSE,84
+74,Orc2,500,120,120,120,5000,30,1,10,They are twice taller than you and thier arms are thiple thicker than your head.WTF!,an orc,ATAAAT,A,21,"2201,2202",FALSE,83
+81,Goblin3,20,20,0,0,0,30,1,10,Green little troubles.Their voice makes you crazy and causes headache.,a goblin,ATAAAT,A,7,"1901,1902",FALSE,92
+82,Spider3,50,0,50,0,0,30,1,10,Every spider is so small until you kill one of them.They gather together and become more and more bigger.,a strong spider,ATAAAT,A,12,"2001,2002",FALSE,91
+83,birdboy3,150,70,80,0,0,30,1,10,"You hate feather!!!!!!The only thing in your mind is that.""ATISHOOOOO""",a birdboy,ATAAAT,A,17,"2101,2102",FALSE,94
+84,Orc3,500,120,120,120,5000,30,1,10,They are twice taller than you and thier arms are thiple thicker than your head.WTF!,an orc,ATAAAT,A,22,"2201,2202",FALSE,93
+91,Goblin4,20,20,0,0,0,30,1,10,Green little troubles.Their voice makes you crazy and causes headache.,a goblin,ATAAAT,A,8,"1901,1902",FALSE,102
+92,Spider4,50,0,50,0,0,30,1,10,Every spider is so small until you kill one of them.They gather together and become more and more bigger.,a strong spider,ATAAAT,A,13,"2001,2002",FALSE,101
+93,birdboy4,150,70,80,0,0,30,1,10,"You hate feather!!!!!!The only thing in your mind is that.""ATISHOOOOO""",a birdboy,ATAAAT,A,18,"2101,2102",FALSE,104
+94,Orc4,500,120,120,120,5000,30,1,10,They are twice taller than you and thier arms are thiple thicker than your head.WTF!,an orc,ATAAAT,A,23,"2201,2202",FALSE,103
+101,Goblin5,20,20,0,0,0,30,1,10,Green little troubles.Their voice makes you crazy and causes headache.,a goblin,ATAAAT,A,9,"1901,1902",FALSE,51
+102,Spider5,50,0,50,0,0,30,1,10,Every spider is so small until you kill one of them.They gather together and become more and more bigger.,a strong spider,ATAAAT,A,14,"2001,2002",FALSE,52
+103,birdboy5,150,70,80,0,0,30,1,10,"You hate feather!!!!!!The only thing in your mind is that.""ATISHOOOOO""",a birdboy,ATAAAT,A,19,"2101,2102",FALSE,53
+104,Orc5,500,120,120,120,5000,30,1,10,They are twice taller than you and thier arms are thiple thicker than your head.WTF!,an orc,ATAAAT,A,24,"2201,2202",FALSE,54
